@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 188606b04dcb544c29f84c3b74e3c35e, type: 3}
+  m_Name: Raichu
+  m_EditorClassIdentifier: 
+  ID: 26
+  name: Raichu
+  frontSprite: {fileID: 21300000, guid: b7f9b1216596e4ce68a2d1017112d08e, type: 3}
+  backSprite: {fileID: 21300000, guid: 224a0f32de6c94b38830c487589a12e3, type: 3}
+  type1: 4
+  type2: 0
+  catchRate: 255
+  maxHP: 60
+  attack: 90
+  defense: 55
+  spAttack: 90
+  spDefense: 80
+  speed: 110
+  expBase: 0
+  growthRate: 0
+  learnableMoves: []

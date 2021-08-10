@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 188606b04dcb544c29f84c3b74e3c35e, type: 3}
+  m_Name: Abra
+  m_EditorClassIdentifier: 
+  ID: 63
+  name: Abra
+  frontSprite: {fileID: 21300000, guid: 117f7ef81115e4cc8b0d504b89b4de43, type: 3}
+  backSprite: {fileID: 21300000, guid: fa2e42ab569604f6a8c62d1442fdf3f2, type: 3}
+  type1: 15
+  type2: 0
+  catchRate: 255
+  maxHP: 25
+  attack: 20
+  defense: 15
+  spAttack: 105
+  spDefense: 55
+  speed: 90
+  expBase: 0
+  growthRate: 0
+  learnableMoves: []

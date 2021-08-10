@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 188606b04dcb544c29f84c3b74e3c35e, type: 3}
+  m_Name: Articuno
+  m_EditorClassIdentifier: 
+  ID: 144
+  name: Articuno
+  frontSprite: {fileID: 21300000, guid: 6fabd9a81f44a4c839eeb3e82b9430b3, type: 3}
+  backSprite: {fileID: 21300000, guid: 825aad642fbeb4f62b28ff75e90b0043, type: 3}
+  type1: 12
+  type2: 8
+  catchRate: 255
+  maxHP: 0
+  attack: 0
+  defense: 0
+  spAttack: 0
+  spDefense: 0
+  speed: 0
+  expBase: 0
+  growthRate: 0
+  learnableMoves: []

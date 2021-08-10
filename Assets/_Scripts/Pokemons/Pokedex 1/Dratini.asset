@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 188606b04dcb544c29f84c3b74e3c35e, type: 3}
+  m_Name: Dratini
+  m_EditorClassIdentifier: 
+  ID: 147
+  name: Dratini
+  description: 
+  frontSprite: {fileID: 21300000, guid: 2f745329eb4084c798634d3deff97138, type: 3}
+  backSprite: {fileID: 21300000, guid: b0488ab11b2f54631aca3375c1294568, type: 3}
+  type1: 3
+  type2: 0
+  catchRate: 255
+  maxHP: 41
+  attack: 64
+  defense: 45
+  spAttack: 50
+  spDefense: 50
+  speed: 50
+  expBase: 67
+  growthRate: 5
+  learnableMoves: []

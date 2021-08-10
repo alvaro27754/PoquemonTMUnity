@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 188606b04dcb544c29f84c3b74e3c35e, type: 3}
+  m_Name: Butterfree
+  m_EditorClassIdentifier: 
+  ID: 12
+  name: Butterfree
+  description: 
+  frontSprite: {fileID: 21300000, guid: a973569d7f88646329ef1d6707963717, type: 3}
+  backSprite: {fileID: 21300000, guid: daa281eb2b7ad461199ae67d897883e9, type: 3}
+  type1: 0
+  type2: 0
+  catchRate: 45
+  maxHP: 60
+  attack: 45
+  defense: 50
+  spAttack: 90
+  spDefense: 80
+  speed: 70
+  expBase: 160
+  growthRate: 1
+  learnableMoves:
+  - move: {fileID: 11400000, guid: c182e4c4f4c16aa4a875346bf54d2f86, type: 2}
+    level: 10
+  - move: {fileID: 11400000, guid: 058398b22c4d45b4481f0a1e12cd3f4e, type: 2}
+    level: 13
+  - move: {fileID: 11400000, guid: 9f162abc9889f624f88d2a2620cf0c0b, type: 2}
+    level: 14
+  - move: {fileID: 11400000, guid: 1ca151553580a0644a6e9135571ebf5b, type: 2}
+    level: 15
+  - move: {fileID: 11400000, guid: 65b2dad40bb6efa4e86dc4a1a40a4a90, type: 2}
+    level: 18
+  - move: {fileID: 11400000, guid: 2b0d8312776707d46bc91c32ff647568, type: 2}
+    level: 23
+  - move: {fileID: 11400000, guid: 18402e3be4fcae14baef15b8dea2c016, type: 2}
+    level: 28
+  - move: {fileID: 11400000, guid: a646999b622d74f469d1a26c93a91a7a, type: 2}
+    level: 34
+  - move: {fileID: 11400000, guid: 77f25fbb2f1778146b730e515954ad01, type: 2}
+    level: 40

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 188606b04dcb544c29f84c3b74e3c35e, type: 3}
+  m_Name: Oddish
+  m_EditorClassIdentifier: 
+  ID: 43
+  name: Oddish
+  description: 
+  frontSprite: {fileID: 21300000, guid: a9b4390ebf46f48cb8f93f841e63eaeb, type: 3}
+  backSprite: {fileID: 21300000, guid: 40a10f08a57774935a5cdbd7f4b22f7c, type: 3}
+  type1: 10
+  type2: 14
+  catchRate: 255
+  maxHP: 45
+  attack: 50
+  defense: 55
+  spAttack: 75
+  spDefense: 65
+  speed: 30
+  expBase: 78
+  growthRate: 3
+  learnableMoves:
+  - move: {fileID: 11400000, guid: 4ea950c25eb2fc34cbb03996123dc545, type: 2}
+    level: 1
+  - move: {fileID: 11400000, guid: 92881b34260e1294a93ecf9200cdc04d, type: 2}
+    level: 7
+  - move: {fileID: 11400000, guid: 6ebadbb6b39e76249a31353884182c24, type: 2}
+    level: 14
+  - move: {fileID: 11400000, guid: 86d61c1ee17f5754e953f65109014232, type: 2}
+    level: 18
+  - move: {fileID: 11400000, guid: 18402e3be4fcae14baef15b8dea2c016, type: 2}
+    level: 23
+  - move: {fileID: 11400000, guid: f129b65d87d62b1448ac8304f60a304a, type: 2}
+    level: 36
+  - move: {fileID: 11400000, guid: a646999b622d74f469d1a26c93a91a7a, type: 2}
+    level: 42

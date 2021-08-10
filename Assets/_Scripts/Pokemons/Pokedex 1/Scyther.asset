@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 188606b04dcb544c29f84c3b74e3c35e, type: 3}
+  m_Name: Scyther
+  m_EditorClassIdentifier: 
+  ID: 123
+  name: Scyther
+  frontSprite: {fileID: 21300000, guid: e541da04a60dd4f978266340ce491ec6, type: 3}
+  backSprite: {fileID: 21300000, guid: e368f3ef4dd7d4164a6c4a5524f2aa6a, type: 3}
+  type1: 1
+  type2: 8
+  catchRate: 255
+  maxHP: 70
+  attack: 110
+  defense: 80
+  spAttack: 55
+  spDefense: 80
+  speed: 105
+  expBase: 0
+  growthRate: 0
+  learnableMoves: []

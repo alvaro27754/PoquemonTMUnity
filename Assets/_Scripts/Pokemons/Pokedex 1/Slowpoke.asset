@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 188606b04dcb544c29f84c3b74e3c35e, type: 3}
+  m_Name: Slowpoke
+  m_EditorClassIdentifier: 
+  ID: 79
+  name: Slowpoke
+  description: 
+  frontSprite: {fileID: 21300000, guid: acf15868454dc4adc88c80da164c3e9c, type: 3}
+  backSprite: {fileID: 21300000, guid: 4f8a7d6d9b2a5474fb477577102e8c17, type: 3}
+  type1: 18
+  type2: 15
+  catchRate: 255
+  maxHP: 90
+  attack: 65
+  defense: 65
+  spAttack: 40
+  spDefense: 40
+  speed: 15
+  expBase: 99
+  growthRate: 3
+  learnableMoves: []

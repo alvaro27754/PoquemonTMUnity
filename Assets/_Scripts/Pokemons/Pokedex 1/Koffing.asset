@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 188606b04dcb544c29f84c3b74e3c35e, type: 3}
+  m_Name: Koffing
+  m_EditorClassIdentifier: 
+  ID: 109
+  name: Koffing
+  frontSprite: {fileID: 21300000, guid: 982e1bbb8b10d4307884d8cfce315fe4, type: 3}
+  backSprite: {fileID: 21300000, guid: 9d16f499df6dd4119bd4eb3bddc369f4, type: 3}
+  type1: 14
+  type2: 0
+  catchRate: 255
+  maxHP: 40
+  attack: 65
+  defense: 95
+  spAttack: 60
+  spDefense: 45
+  speed: 35
+  expBase: 0
+  growthRate: 0
+  learnableMoves: []

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 188606b04dcb544c29f84c3b74e3c35e, type: 3}
+  m_Name: Tangela
+  m_EditorClassIdentifier: 
+  ID: 114
+  name: Tangela
+  description: 
+  frontSprite: {fileID: 21300000, guid: 44a3ca7a3915e4722bdb31abbf689757, type: 3}
+  backSprite: {fileID: 21300000, guid: 0f822cb80f6e04e86a28d847a2b3d4fb, type: 3}
+  type1: 10
+  type2: 0
+  catchRate: 45
+  maxHP: 65
+  attack: 55
+  defense: 115
+  spAttack: 100
+  spDefense: 100
+  speed: 60
+  expBase: 166
+  growthRate: 5
+  learnableMoves:
+  - move: {fileID: 11400000, guid: 95f955f4a4f9a6343811d4f794257c9d, type: 2}
+    level: 1
+  - move: {fileID: 11400000, guid: 1b7124963eed55e4898ad53f30abdde2, type: 2}
+    level: 4
+  - move: {fileID: 11400000, guid: 058398b22c4d45b4481f0a1e12cd3f4e, type: 2}
+    level: 10
+  - move: {fileID: 11400000, guid: 9ad25975cf3a446e48b0d91a822b1508, type: 2}
+    level: 13
+  - move: {fileID: 11400000, guid: 4ea950c25eb2fc34cbb03996123dc545, type: 2}
+    level: 19
+  - move: {fileID: 11400000, guid: b2de3b8698d3333489558abd3ffaf3e2, type: 2}
+    level: 28
+  - move: {fileID: 11400000, guid: 18402e3be4fcae14baef15b8dea2c016, type: 2}
+    level: 31
+  - move: {fileID: 11400000, guid: 77f25fbb2f1778146b730e515954ad01, type: 2}
+    level: 37
+  - move: {fileID: 11400000, guid: 6f42341512afb1242ad963a1eed1de62, type: 2}
+    level: 40
+  - move: {fileID: 11400000, guid: a646999b622d74f469d1a26c93a91a7a, type: 2}
+    level: 46

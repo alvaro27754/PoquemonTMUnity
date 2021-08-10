@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 188606b04dcb544c29f84c3b74e3c35e, type: 3}
+  m_Name: Metapod
+  m_EditorClassIdentifier: 
+  ID: 11
+  name: Metapod
+  description: 
+  frontSprite: {fileID: 21300000, guid: 46e50498c8a2d4f75940cb97da8b9302, type: 3}
+  backSprite: {fileID: 21300000, guid: 58dcbf17774064e17b3fad2f96f44449, type: 3}
+  type1: 1
+  type2: 0
+  catchRate: 120
+  maxHP: 50
+  attack: 20
+  defense: 55
+  spAttack: 25
+  spDefense: 25
+  speed: 30
+  expBase: 72
+  growthRate: 1
+  learnableMoves:
+  - move: {fileID: 11400000, guid: 25450aa19126d4eb8989299563323507, type: 2}
+    level: 1
+  - move: {fileID: 11400000, guid: bbb7cff1179b653459bf959c920e47a4, type: 2}
+    level: 7

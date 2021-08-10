@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 188606b04dcb544c29f84c3b74e3c35e, type: 3}
+  m_Name: Raticate
+  m_EditorClassIdentifier: 
+  ID: 20
+  name: Raticate
+  frontSprite: {fileID: 21300000, guid: f3f00593631354cc3b248d94212654ff, type: 3}
+  backSprite: {fileID: 21300000, guid: 7231901dde9e04919b420f8d0f2dfe25, type: 3}
+  type1: 13
+  type2: 0
+  catchRate: 255
+  maxHP: 55
+  attack: 81
+  defense: 60
+  spAttack: 50
+  spDefense: 70
+  speed: 97
+  expBase: 0
+  growthRate: 0
+  learnableMoves: []

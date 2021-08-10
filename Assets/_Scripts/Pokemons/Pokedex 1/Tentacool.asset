@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 188606b04dcb544c29f84c3b74e3c35e, type: 3}
+  m_Name: Tentacool
+  m_EditorClassIdentifier: 
+  ID: 72
+  name: Tentacool
+  description: 
+  frontSprite: {fileID: 21300000, guid: e56bb9c7bf6664b7ebfc91bb97ffe7a2, type: 3}
+  backSprite: {fileID: 21300000, guid: dae3fbdc1b574416dac907ebe01ada1f, type: 3}
+  type1: 18
+  type2: 14
+  catchRate: 255
+  maxHP: 40
+  attack: 40
+  defense: 35
+  spAttack: 50
+  spDefense: 100
+  speed: 70
+  expBase: 105
+  growthRate: 2
+  learnableMoves: []
